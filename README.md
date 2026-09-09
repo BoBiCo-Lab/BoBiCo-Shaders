@@ -19,7 +19,7 @@
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 **BoBiCo Shader** is a feature-rich shader for the **S&box** game engine, inspired by popular shaders such as **LilToon** and **Poiyomi** while introducing its own optimized and flexible rendering systems.
 
@@ -27,26 +27,26 @@ Designed to be both easy to use and highly customizable, it supports a wide rang
 
 ---
 
-## ✨ Feature Highlights
+## Feature Highlights
 
 - Multiple Shading Styles : BoBiCo Shader comes with **six built-in shading modes**: **Flat**, **Multilayer**, **Texture Ramp**, **Shade Map**, **Realistic**, and **Fur**.
 Every shading mode also supports **Wrap Shading**, allowing you to easily achieve different lighting styles without switching to another shader.
 
-- 🪟 Flexible Rendering Modes : Supports **Opaque**, **Cutout**, and **Transparent** rendering pipelines, alongside advanced transparency techniques such as **Dither Alpha**, **Alpha-to-Coverage**, and **Fresnel Alpha**.
+- Flexible Rendering Modes : Supports **Opaque**, **Cutout**, and **Transparent** rendering pipelines, alongside advanced transparency techniques such as **Dither Alpha**, **Alpha-to-Coverage**, and **Fresnel Alpha**.
 The shader intelligently reuses existing alpha channels whenever possible, reducing the need for dedicated masking textures.
 
-- 💡 Full Lighting Support : Designed to integrate seamlessly with the S&box lighting pipeline, supporting **Direct Lighting**, **Indirect Lighting**, **Light Probes**, and **DDGI**. Lighting transitions adapt naturally to the environment while preserving the intended visual style.
+- Full Lighting Support : Designed to integrate seamlessly with the S&box lighting pipeline, supporting **Direct Lighting**, **Indirect Lighting**, **Light Probes**, and **DDGI**. Lighting transitions adapt naturally to the environment while preserving the intended visual style.
 
-- 🎛️ Extensive Material Customization : Build highly customizable materials using **dual main color layers**, built-in **decal tools**, **normal maps**, **emission**, **matcaps**, and a large collection of color adjustment controls.
+- Extensive Material Customization : Build highly customizable materials using **dual main color layers**, built-in **decal tools**, **normal maps**, **emission**, **matcaps**, and a large collection of color adjustment controls.
 Whether you're creating stylized or realistic materials, the shader provides plenty of flexibility without becoming difficult to use.
 
-- ✨ Stylized Effects : Enhance your visuals with built-in features including **MatCaps**, **Inverted Hull Outlines**, **Glitter Effects**, and several additional NPR-oriented rendering options.
+- Stylized Effects : Enhance your visuals with built-in features including **MatCaps**, **Inverted Hull Outlines**, **Glitter Effects**, and several additional NPR-oriented rendering options.
 
-- ⚙️ Physically Based Rendering : Every shading mode except **Fur** supports a complete **PBR workflow**, including advanced material parameters and flexible multi-channel controls for fine-tuning surface appearance.
+- Physically Based Rendering : Every shading mode except **Fur** supports a complete **PBR workflow**, including advanced material parameters and flexible multi-channel controls for fine-tuning surface appearance.
 
-- 🚀 Advanced Features : BoBiCo Shader also includes support for **Screen Space Ambient Occlusion (SSAO)**, **Parallax Occlusion Mapping**, **Self Shadowing**, **Subsurface Scattering**, **Fur Rendering**, and many other advanced rendering techniques.
+- Advanced Features : BoBiCo Shader also includes support for **Screen Space Ambient Occlusion (SSAO)**, **Parallax Occlusion Mapping**, **Self Shadowing**, **Subsurface Scattering**, **Fur Rendering**, and many other advanced rendering techniques.
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
@@ -62,7 +62,7 @@ The software is provided **"as is"**, without warranty of any kind.
 
 > Additional resources and important files for developers interested in building their own shaders on top of BoBiCo Shader will be released in the future.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are always welcome.
 
